@@ -1,0 +1,45 @@
+# Site wide configuration
+
+title: Rodolfo Maciel
+locale: pt-br
+description: Palestras e livros sobre marketing e empreendedorismo digital. Cursos e treinamentos para quem quer levar seu negócio para o próximo nível.
+logo: 
+search: false
+url: "http://rodolfomaciel.com"
+
+
+# Jekyll configuration
+
+permalink:   /:title/
+markdown:    kramdown
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Rodolfo Maciel
+  avatar: bio-photo.jpg
+  email: macielr@gmail.com
+  disqus-shortname: rodolfomaciel45
+  twitter: @_rodolfomaciel
+  facebook: rodolfomaciel
+  github: 
+  google:
+    plus: +RodolfoMaciel83
+    analytics:
+    verify:
+    ad-client:
+    ad-slot: 
+  bing-verify:

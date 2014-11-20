@@ -1,0 +1,26 @@
+<section class="princ">
+	<div class="rdlogo"><h1><a href="{{ site.url }}">Rodolfo Maciel</a></h1></div>
+            <div class="rdmenu">
+              <nav>
+                <ul>
+                   <li><a href="{{ site.baseurl }}/artigos/">Artigos</a></li>
+                   <li><a href="{{ site.baseurl }}/palestras/">Palestras</a></li>
+                   <li><a href="{{ site.baseurl }}/livros/">Livros</a></li>
+                   <li><a href="{{ site.baseurl }}/cursos/">Cursos</a></li>
+                </ul>
+              </nav>
+           </div>
+         </section>
+        <section class="cbmenu1">
+           <div class="alincb">
+            <nav>
+               <ul>
+                   <li><a href="{{ site.baseurl }}/sobre/">Design por Rodolfo Maciel</a></li>
+                   <li><a href="{{ site.baseurl }}/conectar/">Host por GitHub Pages</a></li>
+                   <li><a href="{{ site.baseurl }}/politica/">Política de Privacidade</a></li>
+                   <li><a href="{{ site.baseurl }}/termos/">Termos de Serviço</a></li>
+               </ul>
+            </nav>
+           </div>
+	</section>
+

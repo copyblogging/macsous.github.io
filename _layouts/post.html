@@ -1,0 +1,22 @@
+---
+layout: default
+title: Rodolfo Maciel
+---
+
+<article>
+<header>
+    <h1>{{ post.title }}</h1>
+    <p>Por {{ post.author }} em <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d de %B de %Y" }}</time></p>
+</header>
+<p>{{% content %}}</p>
+
+<footer>
+	<div class="assinat">
+		<p>Receba nossos artigos no seu próprio email.</p>
+		<input type="email"><input type="button" value="Assinar">
+	</div>
+	<div class="disqus">
+		{{ include disqus_commentts.html }}
+	</div>
+</footer>
+</article>

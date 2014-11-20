@@ -1,0 +1,98 @@
+---
+layout: post
+title: "4 motivos porque o layout do seu site está deixando seus leitores irem embora"
+excerpt: "Fazer com que os leitores gostem e fiquem no seu site consumindo seu conteúdo exige muito esforço. Com estas 4 dicas você vai aumentar e muito sua chance de sucesso."
+category: Trafego
+tags: [trafego, design]
+imagefeature: dicas-secretas.png
+comments: true
+share: true
+---
+
+Imagine que você tem um site muito bonito. Ele é produzido com as últimas tecnologias da web e custou uma boa soma de dinheiro.
+
+Você tem uma boa visitação nele mas existe um grande problema: ele não está gerando os negócios que você esperava.
+
+As pessoas estão lá, porém, parece que você está vendo elas darem meia volta e irem embora para não mais voltar.
+
+<figure>
+	<a href="{{ site.url }}/images/saida.jpg"><img src="{{ site.url }}/images/saida.jpg"></a>
+</figure>
+
+##O layout é uma completa poluição visual
+Um dos maiores problemas é a poluição visual. Alguns sites tem apelo visual muito carregado (justamente para chamar a atenção).
+
+Mas isso geralmente distrai o seu leitor ou faz ele se sentir perdido. Desse modo, ele acaba perdendo o interesse e vai embora atrás de uma coisa menos confusa.
+
+Veja por exemplo o site do jornal Folha de São Paulo, a quantidade de informações, imagens, links, banners que você encontra na página inicial é tremenda.
+
+Existe tanta coisa que distrai a sua atenção ali que você acaba saindo do site por não saber o que fazer.
+
+Agora veja o site de Jonathan Fields e sinta a grande diferença que existe entre ele e o site anterior. Ele também é bonito, porém, é muito mais direcionado e limpo.
+
+Simplificar o layout é o primeiro passo para melhorar a navegabilidade do seu site e conduzir o seu leitor para onde você deseja.
+
+Um segundo fator de grande importância na estratégia de conversão do seu site é o uso dos formulários de inscrição. Mas acredito que ainda não ouviu falar nos maiores erros cometidos referente a isso.
+
+##Formulários a menos e nos lugares errados
+O principal e melhor meio que você possui para manter contato com alguém na internet é através do email.
+
+Existem diversos outros porém o que trás mais resultados é o email. Agora pergunte-se: o layout do meu site favorece o meu leitor realizar a inscrição na minha lista?
+
+Essa é uma pergunta importante porque se não existir formulários de inscrição não há conversão e nem vendas.
+
+Uma segunda análise importante nesse sentido é onde estão localizados os formulários de inscrição. Encontrar o seu formulário não deve ser como encontrar a saída de um labirinto.
+
+Para facilitar o seu trabalho vou listar os 4 locais que mais convertem:
+No topo do site. Com exemplo você ver abaixo o site Viver de Blog e observar que de cara você tem a oferta da inscrição na lista do blog.
+
+No topo da sidebar. A sidebar é a barra lateral do seu blog que trás informações diversas e certamente uma delas deve ser o formulário de inscrição. É essencial que ele seja a primeira coisa que o seu leitor vê.
+No final de cada artigo. Se uma pessoa ler um de seus artigos por completo é porque ele tem muito interesse no seu conteúdo. Devido a isso ao terminar a leitura ele deve ter a oportunidade de receber mais artigos no email dele.
+Na página Sobre. Muitos perdem a chance de aumentar sua lista de contatos justamente quando as pessoas estão conhecendo seu negócio. A página Sobre pode se tornar uma máquina de conversão.
+
+Como você pode sentir você precisa preencher seu site com diversos formulários para que em cada página os leitores possam ter a chance se relacionar mais com você.
+
+Um último fator que contribui para as suas conversões são as chamadas para a ação.
+
+##Acostume o leitor a receber comandos
+As chamadas para ação referem-se as palavras que conduzem o leitor a realizar alguma coisa no seu site. Isso pode ser uma inscrição, um compartilhamento, uma compra e assim por diante.
+
+O fato é que ao terminar a leitura de um assunto o visitante deve saber exatamente o que vai fazer a seguir. Você vai ordenar o que deseja que ele aça.
+
+Sem isso o visitante simplesmente vai sair ou fechar o seu artigo e você perderá mais um possível cliente.
+
+Não deixe para dar essa ordem apenas quando for vender. Acostume seu leitor a receber esses comandos para se habituar com eles. Quando você ordenar uma compra então vai ser mais fácil ele obedecer.
+
+##Faltam títulos chamativos para seus textos
+Um ponto que eu não poderia deixar de mencionar são os títulos dos artigos. Conforme o grande publicitário David Ogilvy cerca de 90% das pessoas lêem apenas o título do seu texto. 
+
+
+Assim você deve caprichar num título chamativo, curioso, intrigante, informativo e muito mais. É com o título que você vai conquistar a atenção e o interesse do visitante do seu site.
+
+Duas formas que podem aumentar bastante a atenção nos seus títulos são:
+* Quando você vai revelar um segredo. Exemplo: “Personal trainer revela método de exercícios que queima gordura da barriga em sessões de apenas 6 minutos”
+* Quando você fornece um guia para realizar alguma tarefa. Exemplo: “Guia Definitivo - Aprenda como construir seu site em apenas 9 passos simples”
+
+As pessoas ficam fascinadas com a perspectiva de um segredo e quando isso tem a ver com algo que vai lhes beneficiar então sua atenção é fisgada por completo.
+
+Outra coisa que as pessoas gostam muito são receitas prontas. Isso engaja muito seus leitores pois o ser humano por natureza gosta de aprender como fazer coisas novas.
+
+Para encerrar essa última dica é importante que o tipo de letra e  o seu tamanho favorecem a leitura. Nenhum site que publica um texto que necessite de lupa para ler merece respeito. Então certifique-se que o tipo e o tamanho da sua letra sejam adequados.
+
+##Desenhe seu layout voltado para conversão
+Se você não desenhar o layout do seu site todo otimizado para aumentar sua lista de leitores, então, estará perdendo clientes.
+
+Modifique urgentemente seu site caso não esteja seguindo essas orientações pois você está deixando dinheiro escapar.
+
+Em resumo o que vimos nesse artigo foram quatro pontos importante para converter mais:
+
+* Use um layout simples que destaque uma ou duas coisas por vez.
+* Coloque mais formulários de inscrição para o seu leitor deixar um email de contato.
+* Crie o hábito no seu leitor de seguir seus comandos.
+* Use títulos que chamem a atenção.
+
+Para finalizar gostaria de ver seu comentário abaixo sobre esse artigo. Em breve, vou falar como um funil de vendas faz o seu site se trans-
+formar numa máquina de fazer clientes.
+Um abraço e até a próxima.
+
+Aproveitem para fazer o download gratuito do guia para textos de vendas no link a seguir: [Guia Básico Copywriting](http://eepurl.com/0PRvb "Baixe gratuitamente o seu Guia Básico Copywriting")

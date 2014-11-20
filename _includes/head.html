@@ -1,0 +1,10 @@
+<meta charset="utf-8">
+<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+<meta name="description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description }}{% endif %}">
+<meta name="author" content="{{ site.author }}">
+{% if page.categories %}<meta name="keywords" content="{{ page.categories | join: ', ' }}">{% endif %}
+<link rel="stylesheet" href="{{ "_style/main.css" | prepend: site.baseurl }}" type="text/css">
+{% include open-graph.html %}
+
+
+
