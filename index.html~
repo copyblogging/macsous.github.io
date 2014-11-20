@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 layout: default
 title: Rodolfo Maciel
@@ -13,3 +14,17 @@ title: Rodolfo Maciel
 <p><a href="{{ site.url }}{{ post.url }}">Saiba mais!</a></p>
 </article>
 {% endfor %}
+=======
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>teste</title>
+</head>
+
+<body>
+<p>Olá mundo!</p>
+</body>
+
+</html>
+>>>>>>> 076257f94edb3bfe574dd2ed0b188d77112940e9
