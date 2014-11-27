@@ -1,11 +1,10 @@
 ---
 layout: default
-<<<<<<< HEAD
 ---
 <article class="art">
 <header>
 	<h1>{{ page.title }}</h1>
-        <p id="info">Por {{ page.author }} em {{ page.date | date: "%-d/%m/%Y" }}  &#8211; <span>{{ page.categories }}</span>.</p>
+        <p id="info">{{ page.author }} &bull; {{ page.categories }} &#8211;  {{ page.date | date: "%-d de %b de %Y" }}.</p>
         <div class="infopost">
         	<ul>
             	    <li id="social"><a href="https://www.facebook.com/sharer.php?u={{ page.url | prepend: site.baseurl }}" target="_blank"><img src="{{ site.baseurl }}/assets/images/facebook-social-button.png" alt="Compartilhar no Facebook" width="32" height="32"/></a></li>
@@ -17,31 +16,6 @@ layout: default
 </header>
 <div>{{ content }}</div>
 <footer>
-    <div>
-       {% if page.comments %}
-       {% include disqus_comments.html %}
-       {% endif %}
-   </div>
+    <div>{% include disqus_comments.html %}</div>
 </footer>	
-=======
-title: Rodolfo Maciel
----
-
-<article>
-<header>
-    <h1>{{ post.title }}</h1>
-    <p>Por {{ post.author }} em <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d de %B de %Y" }}</time></p>
-</header>
-<p>{{% content %}}</p>
-
-<footer>
-	<div class="assinat">
-		<p>Receba nossos artigos no seu próprio email.</p>
-		<input type="email"><input type="button" value="Assinar">
-	</div>
-	<div class="disqus">
-		{{ include disqus_commentts.html }}
-	</div>
-</footer>
->>>>>>> 2924543f4fcf30f03a5240273d90e8f4b9f5f24e
 </article>

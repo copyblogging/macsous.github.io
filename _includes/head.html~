@@ -1,4 +1,13 @@
-<<<<<<< HEAD
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+</head>
+
 <head>
 	<meta charset="utf-8"/>
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
@@ -8,15 +17,3 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 </head>
-=======
-<meta charset="utf-8">
-<title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
-<meta name="description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description }}{% endif %}">
-<meta name="author" content="{{ site.author }}">
-{% if page.categories %}<meta name="keywords" content="{{ page.categories | join: ', ' }}">{% endif %}
-<link rel="stylesheet" href="{{ "_style/main.css" | prepend: site.baseurl }}" type="text/css">
-{% include open-graph.html %}
-
-
-
->>>>>>> 2924543f4fcf30f03a5240273d90e8f4b9f5f24e

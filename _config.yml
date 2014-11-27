@@ -10,8 +10,6 @@ url: "http://rodolfomaciel.com" # the base hostname & protocol for your site
 
 permalink:   /:title/
 paginate: 5
-gems:
-   - jekyll-sitemap
 
 
 disqus-shortname: rodolfomaciel83

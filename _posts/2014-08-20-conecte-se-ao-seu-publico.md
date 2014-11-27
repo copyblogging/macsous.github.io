@@ -8,6 +8,8 @@ category: Copywriting
 comments: true
 ---
 
+A primeira sentença do seu texto pode segmentar de forma bastante exata o público que você deseja atingir. Observe bem o título desse post, quem for copywriter vai se identificar na hora.
+
 Veja mais um exemplo de títulos que conectam ao público: “Empresário ou profissional liberal? Tenho uma surpresa para você…” Esse foi um email que recebi e demonstra muito bem o que significa conectar-se ao seu público.
 
 Acredito que você já percebeu o impacto que isso tem sobre os seus leitores. Quando você __identifica as pessoas com quem deseja falar__ logo de cara você obtem dois beneficios:
@@ -27,14 +29,6 @@ Veja algumas formas que você pode usar:
 
 >“Como fazer [Atividade do Seu Público] em 6 Etapas Simples”
 
-<<<<<<< HEAD
-=======
-<figure>
-  <img src="{{ site.url }}/images/conecte-se-com-seu-publico.png" alt="Rodolfo Maciel">
-  <figcaption>Conectar-se com o seu público é o primeiro passo</figcaption>
-</figure>
-
->>>>>>> 2924543f4fcf30f03a5240273d90e8f4b9f5f24e
 Bem agora faltou criatividade para mais exemplos  :)  ,porém, você já deve ter percebido a importância de __conectar-se ao seu público logo no começo__ da sua mensagem.
 
 Para saber mais pegue o modelo gratuito baseado no texto de vendas de maior sucesso de David Ogilvy o maior publicitário das últimas décadas!

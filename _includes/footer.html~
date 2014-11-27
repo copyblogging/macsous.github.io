@@ -1,12 +1,11 @@
-<<<<<<< HEAD
 <div class="lf">
     <div class="rdsocial">
          <nav>
             <ul>
-                <li><a href="https://facebook.com/rodolfomaciel"><img src="{{ site.baseurl }}/assets/images/facebook-social-button.png" alt="Compartilhar no Facebook"/></a></li>
-                <li><a href="https://plus.google.com/+RodolfoMaciel83"><img src="{{ site.baseurl }}/assets/images/google-plus-social-button.png" alt="Compartilhar no Google+"/></a></li>
-                <li><a href="https://twitter.com/_rodolfomaciel"><img src="{{ site.baseurl }}/assets/images/twitter-social-button.png" alt="Compartilhar no Twitter"/></a></li>
-                <li><a href="https://br.linkedin.com/in/rodolfomaciel/"><img src="{{ site.baseurl }}/assets/images/linkedin-social-button.png" alt="Compartilhar no Linkedin"/></a></li>
+                <li><a href="https://facebook.com/rodolfomaciel"><img src="facebook-social-button.png" alt="Compartilhar no Facebook"/></a></li>
+                <li><a href="https://plus.google.com/+RodolfoMaciel83"><img src="google-plus-social-button.png" alt="Compartilhar no Google+"/></a></li>
+                <li><a href="https://twitter.com/_rodolfomaciel"><img src="twitter-social-button.png" alt="Compartilhar no Twitter"/></a></li>
+                <li><a href="https://br.linkedin.com/in/rodolfomaciel/"><img src="linkedin-social-button.png" alt="Compartilhar no Linkedin"/></a></li>
               </ul>
           </nav>
     </div>
@@ -27,31 +26,4 @@
        </ul>
     </div>
 </div>
-=======
-<section class="princ">
-<div class="rdlogo"><h1><a href="{{ site.url }}">Rodolfo Maciel</a></h1></div>
-    <div class="rdmenu">
-      <nav>
-        <ul>
-           <li><a href="{{ site.baseurl }}/artigos/">Artigos</a></li>
-           <li><a href="{{ site.baseurl }}/palestras/">Palestras</a></li>
-           <li><a href="{{ site.baseurl }}/livros/">Livros</a></li>
-           <li><a href="{{ site.baseurl }}/cursos/">Cursos</a></li>
-        </ul>
-      </nav>
-   </div>
- </section>
-<section class="cbmenu1">
-   <div class="alincb">
-    <nav>
-       <ul>
-           <li><a href="{{ site.baseurl }}/sobre/">Design por Rodolfo Maciel</a></li>
-           <li><a href="{{ site.baseurl }}/conectar/">Host por GitHub Pages</a></li>
-           <li><a href="{{ site.baseurl }}/politica/">Política de Privacidade</a></li>
-           <li><a href="{{ site.baseurl }}/termos/">Termos de Serviço</a></li>
-       </ul>
-    </nav>
-   </div>
-</section>
->>>>>>> 2924543f4fcf30f03a5240273d90e8f4b9f5f24e
 

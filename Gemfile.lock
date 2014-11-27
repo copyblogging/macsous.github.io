@@ -1,0 +1,9 @@
+GEM
+  specs:
+    jekyll-paginate (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jekyll-paginate
