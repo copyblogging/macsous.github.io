@@ -14,10 +14,6 @@ Você tem uma boa visitação nele mas existe um grande problema: ele não está
 
 As pessoas estão lá, porém, parece que você está vendo elas darem meia volta e irem embora para não mais voltar.
 
-<figure>
-	<a href="{{ site.url }}/images/saida.jpg"><img src="{{ site.url }}/images/saida.jpg"></a>
-</figure>
-
 ##O layout é uma completa poluição visual
 Um dos maiores problemas é a poluição visual. Alguns sites tem apelo visual muito carregado (justamente para chamar a atenção).
 

@@ -1,8 +1,9 @@
 ---
 layout: default
+<<<<<<< HEAD
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 	<article class="art">
     	<header>
     		<h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
@@ -22,3 +23,20 @@ layout: default
    <div id="lin"></div>
 {% endfor %}
 {% include pagination.html %}
+=======
+title: Rodolfo Maciel
+---
+
+{% for post in site.posts limit:10 %}
+<article>
+<header>
+    <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
+    <p>Por {{ post.author }} em <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d de %B de %Y" }}</time></p>
+</header>
+<p>{{ post.excerpt }}</p>
+<p><a href="{{ site.url }}{{ post.url }}">Saiba mais!</a></p>
+</article>
+{% endfor %}
+
+
+>>>>>>> 2924543f4fcf30f03a5240273d90e8f4b9f5f24e

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Sua única e principal chance de conquistar a atenção dos seus clientes"
+<<<<<<< HEAD
+title: "Sua Única e Principal Chance de Conquistar a Atenção dos Seus Clientes"
 author: Rodolfo Maciel
 date: 08/09/2014
 summary: "Se você conseguir conquistar a atenção e o interesse do seu leitor apenas com um título chamativo e empolgante já terá feito mais que a metade do trabalho. O restante é só fazer o dever de casa. Neste artigo você aprenderá técnicas comprovadas que tornam seus títulos altamente eficazes."
@@ -22,11 +23,7 @@ Neste rápido artigo você vai aprender quatro coisas importantes:
 * Como criar títulos impossíveis de ser ignorados e
 * O que você deve aprender para desenvolver sua arte de persuasão.
 
-Antes de mais nada é de suma importância entender
-
-<h2>Porque o título da sua mensagem tem tanta importância assim,</h2>
-
-desse modo você poderá dar a devida atenção ao desenvolver as manchetes dos seus artigos.
+Antes de mais nada é de suma importância entender desse modo você poderá dar a devida atenção ao desenvolver as manchetes dos seus artigos.
 
 De todo modo, o primeiro contato que alguém tem com sua mensagem de vendas é através do título. É como num jornal de papel, sempre o que chama a nossa primeira atenção são as manchetes.
 
@@ -36,11 +33,6 @@ Por isso, não subestime a importância de um bom título pois mais 90% de suas 
 
 ##Use os títulos que comprovadamente são mais eficazes
 Alguns formatos de títulos demonstram mais eficácia em conquistar o interesse das pessoas. Assim se eles estão dando certo para outros certamente vai dar certo em nosso caso também.
-
-<figure>
-	<a href="{{ site.url }}/images/roda-quadrada.jpg"><img src="{{ site.url }}/images/roda-quadrada.jpg"></a>
-	<figcaption>Use os formatos certos.</figcaption>
-</figure>
 
 Eu vou te explicar quais são as duas emoções que se você adicioná-las no seu título vai fazer qualquer pessoa ler suas mensagens.
 
@@ -107,6 +99,8 @@ A minha indicação para você é o site do grande copywriter [Gary Halbert](htt
 Além disso, pode se inscrever para continuar recebendo nossas dicas aqui no blog e em nosso grupo exclusivo no Facebook - [Copywriting Brasil](http://www.facebook.com/groups/copywritingbrasil1).
 
 Espero que tenha gostado e não deixe de comentar suas impressões. Valeu até mais.
+<<<<<<< HEAD
+=======
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
@@ -157,3 +151,4 @@ $.extend($.validator.messages, {
 });}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 :-)
+>>>>>>> 2924543f4fcf30f03a5240273d90e8f4b9f5f24e

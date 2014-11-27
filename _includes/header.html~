@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <header class="cb">
         <div class="cbbanner">
         <div class="layout">
@@ -10,7 +11,7 @@
         <div class="layout">
             <nav>
                 <ul>
-                    <li><a  href="{{ site.baseurl }}/home/">Home</a></li>
+                    <li><a  href="{{ site.baseurl }}/index.html">Home</a></li>
                     <li><a  href="{{ site.baseurl }}/artigos/">Artigos</a></li>
                     <li><a  href="{{ site.baseurl }}/palestras/">Palestras</a></li>
                     <li><a  href="{{ site.baseurl }}/livros/">Livros</a></li>
@@ -25,3 +26,33 @@
         </div>
         </div>
 </header>
+=======
+<section class="cbmenu1">
+<div class="alincb">
+<nav>
+<ul>
+   <li><a href="{{ site.baseurl }">Home</a></li>
+   <li><a href="{{ site.baseurl }}/sobre/">Sobre</a></li>
+   <li><a href="{{ site.baseurl }}/contato/">Contato</a></li>
+   <li><a href="{{ site.baseurl }}/conectar/">Conectar-se</a></li>
+</ul>
+</nav>
+</div>
+</section>
+<section class="cbmenu2">
+<div class="alincb">
+<div class="cblogo"><h1><a href="#">Rodolfo Maciel</a></h1></div>
+<div class="cbmenu">
+ <nav>
+    <ul>
+      <li><a href="{{ site.baseurl }}/artigos/">Artigos</a></li>
+      <li><a href="{{ site.baseurl }}/palestras/">Palestras</a></li>
+      <li><a href="{{ site.baseurl }}/livros/">Livros</a></li>
+      <li><a href="{{ site.baseurl }}/cursos/">Cursos</a></li>
+    </ul>
+ </nav>
+</div>
+</div>
+</section>
+
+>>>>>>> 2924543f4fcf30f03a5240273d90e8f4b9f5f24e

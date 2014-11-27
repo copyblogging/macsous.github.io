@@ -1,14 +1,20 @@
 ---
 layout: post
 title: "4 motivos porque o layout do seu site está deixando seus leitores irem embora"
+<<<<<<< HEAD
 author: Rodolfo Maciel
 date: 04/08/2014
-summary:: "Fazer com que os leitores gostem e fiquem no seu site consumindo seu conteúdo exige muito esforço. Com estas 4 dicas você vai aumentar e muito sua chance de sucesso."
+summary: "Fazer com que os leitores gostem e fiquem no seu site consumindo seu conteúdo exige muito esforço. Com estas 4 dicas você vai aumentar e muito sua chance de sucesso."
+category: Trafego
+comments: true
+=======
+excerpt: "Fazer com que os leitores gostem e fiquem no seu site consumindo seu conteúdo exige muito esforço. Com estas 4 dicas você vai aumentar e muito sua chance de sucesso."
 category: Trafego
 tags: [trafego, design]
 imagefeature: dicas-secretas.png
 comments: true
 share: true
+>>>>>>> 2924543f4fcf30f03a5240273d90e8f4b9f5f24e
 ---
 
 Imagine que você tem um site muito bonito. Ele é produzido com as últimas tecnologias da web e custou uma boa soma de dinheiro.
