@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="art">
+<header>
+	<h1>{{ page.title }}</h1>
+        <p id="info">Por {{ page.author }} em {{ page.date | date: "%-d/%m/%Y" }}  &#8211; <span>{{ page.categories }}</span>.</p>
+        <div class="infopost">
+        	<ul>
+            	    <li id="social"><a href="https://www.facebook.com/sharer.php?u={{ page.url | prepend: site.baseurl }}" target="_blank"><img src="{{ site.baseurl }}/assets/images/facebook-social-button.png" alt="Compartilhar no Facebook" width="32" height="32"/></a></li>
+                    <li id="social"><a href="https://plus.google.com/u/0/share?url={{ page.url | prepend: site.baseurl }}" target="_blank"><img src="{{ site.baseurl }}/assets/images/google-plus-social-button.png" alt="Compartilhar no Google+" width="32" height="32"/></a></li>
+                    <li id="social"><a href="https://twitter.com/intent/tweet?url={{ page.url | prepend: site.baseurl }}" target="_blank"><img src="{{ site.baseurl }}/assets/images/twitter-social-button.png" alt="Compartilhar no Twitter" width="32" height="32"/></a></li>
+                    <li id="social"><a href="https://www.linkedin.com/shareArticle?url={{ page.url | prepend: site.baseurl }}" target="_blank"><img src="{{ site.baseurl }}/assets/images/linkedin-social-button.png" alt="Compartilhar no Facebook" width="32" height="32"/></a></li>
+            	</ul>   
+        </div>
+</header>
+<div>{{ content }}</div>
+<footer>
+    <div>
+       {% if page.comments %}
+       {% include disqus_comments.html %}
+       {% endif %}
+   </div>
+</footer>	
+</article>

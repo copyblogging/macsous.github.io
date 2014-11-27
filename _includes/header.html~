@@ -1,0 +1,27 @@
+<header class="cb">
+        <div class="cbbanner">
+        <div class="layout">
+            <aside>
+                <a href="{{ site.baseurl }}/inscricao/">Faça nosso curso gratuito de <span id="la">marketing digital!</span><span id="lb">Quero Fazer!</span></a>
+            </aside>
+        </div>
+        </div>
+        <div class="cbmenu">
+        <div class="layout">
+            <nav>
+                <ul>
+                    <li><a  href="{{ site.baseurl }}/home/">Home</a></li>
+                    <li><a  href="{{ site.baseurl }}/artigos/">Artigos</a></li>
+                    <li><a  href="{{ site.baseurl }}/palestras/">Palestras</a></li>
+                    <li><a  href="{{ site.baseurl }}/livros/">Livros</a></li>
+                    <li><a  href="{{ site.baseurl }}/cursos/">Cursos</a></li>
+                </ul>
+            </nav>
+        </div>
+        </div>
+        <div class="cblogo">
+        <div class="layout">
+            <h1><a href="{{ site.baseurl }}/index.html">rodolfo maciel</a></h1>
+        </div>
+        </div>
+</header>

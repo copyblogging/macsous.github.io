@@ -1,0 +1,20 @@
+<div class="pag">
+  <div class="left">
+    {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
+        <a class="pagination-item" href="{{ site.baseurl }}/">Artigos Recentes</a>
+      {% else %}
+        <a class="pagination-item" href="{{ site.baseurl }}/page{{paginator.previous_page}}/">Artigos Recentes</a>
+      {% endif %}
+    {% else %}
+      <span class="pagination-item disabled">Artigos Recentes</span>
+    {% endif %}
+  </div>
+  <div class="right">
+    {% if paginator.next_page %}
+      <a class="pagination-item" href="{{ site.baseurl }}/page{{paginator.next_page}}/">Artigos Anteriores</a>
+    {% else %}
+      <span class="pagination-item disabled">Antigos Anteriores</span>
+    {% endif %}
+  </div>
+</div>

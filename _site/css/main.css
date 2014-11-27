@@ -1,0 +1,132 @@
+/* Rodolfo Maciel 22/11/2014 */
+
+@charset "utf-8";
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;}
+    
+/*---------------------------------------------------------*/
+
+body {width:100%, height:100%; background-color: #f4f4f4; font-size: 14px; font-family:Arial, sans-serif;}
+header, footer, .cbbanner, .cbmenu, .cblogo {width:100%;}
+div.layout{width: 1190px; margin:0 auto;}
+div.lf {width:1115px; margin:40px auto;}
+
+.cbbanner {height:85px; background:#f0f743;  text-align: center; }
+.cbbanner aside a {font-size: 28px; line-height: 85px; text-decoration: none; color:#000; display: inline-block;}
+.cbbanner aside a span#la{font-weight: 700;}
+.cbbanner aside a span#lb{font-size: 24px; border:1px solid #000; border-radius: 20px; margin:0 20px; padding: 10px 20px; text-transform: uppercase;}
+.cbbanner aside a span#lb:hover {background:#333; color:#f5ff00;}
+
+.cbmenu {height:64px; background-color: #292929; color:#fff;}
+.cbmenu ul li {width:100px; line-height: 64px; font-size:20px;  text-align: center;}
+.cbmenu ul li a{text-decoration: none; color:#fff;  display:inline-block; width:100px;}
+.cbmenu ul li a:hover{background: #f4f4f4; color:#333; border-right: 1px solid #f5ff00; border-left: 1px solid #f5ff00;}
+
+.cbmenu ul li, .rdsocial  ul li, .rdlegal  ul li {display:inline-block;}
+
+.cblogo {width:1190px; height:90px; margin:0 auto;}
+.cblogo h1{font-size: 30px; line-height: 90px; font-weight: 800; margin-left: 15px;}
+.cblogo h1 a{text-decoration: none; color:#185472;}
+
+div.bg {margin:0 auto; width:1190px; overflow: hidden; background: #fff; border: 1px solid #e6e7e7 ; border-radius: 10px;}
+section.ct {width: 720px; float: left;}
+
+
+article.art {width:720px; margin:50px 25px 0px 50px;; font-size: 18px;}
+article.art header {margin-bottom: 15px;}
+article.art header h1 a{text-decoration: none; color:#333;}
+article.art header h1 {font-size: 31px; margin-bottom:10px; font-weight: 700;}
+article.art div {font-size: 22px; text-align: justify; line-height: 26px; color:#626262;}
+article.art div h2 {font-size: 22px; font-weight:700; text-align: justify; line-height: 26px; margin: 20px 0; color:#626262;}
+article.art div p {line-height: 28px; margin-bottom: 15px;}
+article.art div ul { margin-bottom: 15px; witdh: 260px; }
+article.art div li {list-style: disc; margin-left: 60px;}
+article.art div blockquote {text-indent: 60px; font-style: italic; color:#4b7db7;}
+article.art div.infopost {height: 32px; line-height: 32px; }
+article.art div.infopost ul {float: right; height: 32px;}
+article.art div.infopost ul li{display: inline;}
+article.art p#info{font-size: 16px;color:#4b7db7; width: 440px;display: inline-block; float: left; height: 32px; line-height: 32px;}
+article.art p#info span {text-transform: capitalize;}
+article.art div.infopost ul li#social{margin:0 5px;}
+article.art footer {margin-top:40px;}
+article.art p#sm {margin-top: 10px; font-size: 22px; margin-bottom: 40px;}
+article.art p#sm a {text-decoration: none; color:#ba0b0b; border-bottom:2px dotted #ba0b0b;}
+article.art div a {color:#4b7db7;}
+#lin {height: 1px; width: 720px; border-bottom: 1px dotted #ccc; margin:0 25px 0 50px;}
+#disqus_thread {width:720px; float:left; margin:0px auto 50px;}
+
+aside.bl {width:370px; float:right;}
+
+aside.bl div {width:320px; margin: 50px 50px 0px 25px; float:right;}
+aside.bl div.blliv {margin: 50px 50px 50px 25px;}
+
+aside.bl .blperfil {border: 1px dotted #bbb; margin: 50px 50px 0px 25px;}
+aside.bl .blperfil img {width:260px; height: 345; margin: 30px 30px;}
+aside.bl .blperfil div#pperfil {width:260px; margin:20px 30px;}
+aside.bl .blperfil div#pname {width:260px; font-size: 18px; font-weight: 700; margin:0 30px;; text-align: center; padding: 10px 0; border-top: 1px solid #069; border-bottom: 1px solid #4b7db7; color:#069;}
+aside.bl .blperfil p {text-align: center; font-size:17px; color:#626262; margin-bottom: 10px; line-height: 22px;}
+
+aside.bl .blart {width: 320px; border: 1px dotted #bbb; margin: 50px 50px 50px 25px;}
+aside.bl .blart header { width: 260px; height:40px; margin:0 auto; margin-top:25px;  text-align: center; line-height: 40px;font-size: 18px; font-weight: 700; border-top: 1px solid #069; border-bottom: 1px solid #4b7db7; color:#069;}
+aside.bl .blart div {width:260px; margin:20px 30px 25px; }
+aside.bl .blart div ul li {margin-bottom: 10px;}
+aside.bl .blart div ul li a {text-decoration: none; font-size: 16px; color:#626262; }
+
+footer.rd {clear: both; text-align: center;}
+div.rdsocial {width: 100%; height:64px; overflow: hidden; line-height: 64px; margin-bottom:20px;}
+div.rdsocial ul li {width: 64px; height:64px; margin:0 10px;}
+div.rdlegal {font-size:20px; margin-bottom:10px;}
+div.rdlegal nav ul li {padding:0 10px;}
+div.rdlegal a {text-decoration:none;  color:#666;}
+div.rdinfo {font-size:14px; color:#666; line-height: 24px;}
+
+.pag {width:720px; height:40px; margin: 0 50px; auto; text-align: center; font-size: 22px;}
+.pag .left {width:320px; height:40px; line-height: 40px; text-transform: uppercase; float:left; text-align: center; background-color: #f4f4f4; margin: 25px 0 25px 0px; border: 1px dotted #bbb; border-radius: 15px;}
+.pag .right {width:320px; height:40px; line-height: 40px; text-transform: uppercase; float:right; text-align: center; background-color: #f4f4f4; margin: 25px 0px 25px 0px;  border: 1px dotted #bbb; border-radius: 15px;}
+.pag .left a, .pag .right a { text-decoration:underline; color::#f00;}
