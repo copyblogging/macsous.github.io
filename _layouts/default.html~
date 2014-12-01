@@ -8,7 +8,7 @@
         {{ content }}    
     </section>
     <aside class="bl">
-            {% include aside.html %}
+	    {% include aside.html %}
     </aside>    
     </div>
     <footer class="rd">

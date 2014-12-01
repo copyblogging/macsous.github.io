@@ -2,19 +2,12 @@
 layout: default
 ---
 
+<section class="ct">
 {% for post in paginator.posts %}
 	<article class="art">
     	<header>
     		<h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-            <p id="info">Por {{ post.author }} em {{ post.date | date: "%-d/%m/%Y" }}  &#8211; <span>{{ post.categories }}</span>.</p>
-            <div class="infopost">
-            	<ul>
-            	    <li id="social"><a href="https://www.facebook.com/sharer.php?u={{ post.url | prepend: site.baseurl }}" target="_blank"><img src="{{ site.baseurl }}/assets/images/facebook-social-button.png" alt="Compartilhar no Facebook" width="32" height="32"/></a></li>
-                    <li id="social"><a href="https://plus.google.com/u/0/share?url={{ post.url | prepend: site.baseurl }}" target="_blank"><img src="{{ site.baseurl }}/assets/images/google-plus-social-button.png" alt="Compartilhar no Google+" width="32" height="32"/></a></li>
-                    <li id="social"><a href="https://twitter.com/intent/tweet?url={{ post.url | prepend: site.baseurl }}" target="_blank"><img src="{{ site.baseurl }}/assets/images/twitter-social-button.png" alt="Compartilhar no Twitter" width="32" height="32"/></a></li>
-                    <li id="social"><a href="https://www.linkedin.com/shareArticle?url={{ post.url | prepend: site.baseurl }}" target="_blank"><img src="{{ site.baseurl }}/assets/images/linkedin-social-button.png" alt="Compartilhar no Facebook" width="32" height="32"/></a></li>
-            	</ul>   
-            </div>
+            <p id="info1">Por {{ post.author }} em {{ post.date | date: "%-d/%m/%Y" }}  &#8211; <span>{{ post.categories }}</span>.</p>
 		</header>
     	<div>{{ post.summary }}</div>  
         <p id="sm"><a href="{{ post.url | prepend: site.baseurl }}">Saiba mais!</a></p>
@@ -22,3 +15,7 @@ layout: default
    <div id="lin"></div>
 {% endfor %}
 {% include pagination.html %}
+</section>
+<aside class="bl">
+  {% include aside.html %}
+</aside>
