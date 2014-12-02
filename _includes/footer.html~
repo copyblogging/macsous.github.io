@@ -2,10 +2,10 @@
     <div class="rdsocial">
          <nav>
             <ul>
-                <li><a href="https://facebook.com/rodolfomaciel"><img src="facebook-social-button.png" alt="Compartilhar no Facebook"/></a></li>
-                <li><a href="https://plus.google.com/+RodolfoMaciel83"><img src="google-plus-social-button.png" alt="Compartilhar no Google+"/></a></li>
-                <li><a href="https://twitter.com/_rodolfomaciel"><img src="twitter-social-button.png" alt="Compartilhar no Twitter"/></a></li>
-                <li><a href="https://br.linkedin.com/in/rodolfomaciel/"><img src="linkedin-social-button.png" alt="Compartilhar no Linkedin"/></a></li>
+                <li><a href="https://facebook.com/rodolfomaciel"><img src="{{ site.baseurl }}/assets/images/facebook-social-button.png" alt="Compartilhar no Facebook"/></a></li>
+                <li><a href="https://plus.google.com/+RodolfoMaciel83"><img src="{{ site.baseurl }}/assets/images/google-plus-social-button.png" alt="Compartilhar no Google+"/></a></li>
+                <li><a href="https://twitter.com/_rodolfomaciel"><img src="{{ site.baseurl }}/assets/images/twitter-social-button.png" alt="Compartilhar no Twitter"/></a></li>
+                <li><a href="https://br.linkedin.com/in/rodolfomaciel/"><img src="{{ site.baseurl }}/assets/images/linkedin-social-button.png" alt="Compartilhar no Linkedin"/></a></li>
               </ul>
           </nav>
     </div>
