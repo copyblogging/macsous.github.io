@@ -19,5 +19,5 @@ Nos artigos que vou disponibilizar eu desejo mostrar todas as fontes que me ajud
 Sejam bem vindos ao meu site e fiquem a vontade para fazer qualquer comentário!
 
 <a href="http://eepurl.com/9xcMD">
-<img href="{{ site.baseurl }}/assets/images/bl-insc.png" alt="Inscrição" width="719" height="95"/>
+<img src="{{ site.baseurl }}/assets/images/bl-insc.png" alt="Inscrição" width="719" height="95"/>
 </a>
