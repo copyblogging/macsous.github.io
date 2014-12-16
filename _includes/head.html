@@ -4,7 +4,7 @@
 	<meta name="description" content="Blog sobre Marketing Digital e empreendedorismo online."/>
 	<meta name="keywords" content="bons negócios, como ganhar dinheiro, como ganhar dinheiro na internet, trabalho em casa, ganhar dinheiro na internet, como ficar rico, trabalhar em casa, trabalhe em casa, negócios lucrativos, como ganhar dinheiro extra, como ganhar dinheiro pela internet"/>
     <meta name="author" content="{{ site.author }}"/>
-    <title>{% if page.url %}{{ page.url }}{% else %}{{ page.title }}{% endif %}</title>
+    <title>{% if page.seo %}{{ page.seo }}{% else %}{{ page.title }}{% endif %}</title>
     <link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     {% include opengraph.html %}
 </head>
