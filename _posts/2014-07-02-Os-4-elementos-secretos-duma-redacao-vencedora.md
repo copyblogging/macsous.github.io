@@ -10,7 +10,7 @@ categories: Copywriting
 comments: true
 ---
 <figure>
-<img src="https://flic.kr/p/bXRZGG" alt="Chamar Atenção com Uma Isca"/>
+<img src="https://farm8.staticflickr.com/7244/7195729556_16eb6cdc26_z.jpg" alt="Chamar Atenção com Uma Isca"/>
 </figure>
 
 ##A isca certa para fisgar um grande peixe
