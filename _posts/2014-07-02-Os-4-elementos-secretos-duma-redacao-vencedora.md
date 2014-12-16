@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Os 4 elementos secretos da redação vencedora"
+seo: "Como Fazer uma Boa Redação de Vendas"
+title: "Os 4 elementos Secretos da Redação de Vendas"
 author: Rodolfo Maciel
 date: 02/07/2014
 summary: "Muito já se falou sobre a fórmula consagrada AIDA. Eles são os quatro elementos essenciais que toda publicidade deve conter: atenção, interesse, desejo e ação.
@@ -8,6 +9,10 @@ Se você ainda não ouviu falar neste modelo ele é importantíssimo para o seu 
 categories: Copywriting
 comments: true
 ---
+<figure>
+<img src="https://flic.kr/p/bXRZGG" alt="Chamar Atenção com Uma Isca"/>
+</figure>
+
 ##A isca certa para fisgar um grande peixe
 A primeira coisa que você deve sentir quando olha para sua copy(ou redação de vendas) é que existe algo nela que chama sua atenção.
 
