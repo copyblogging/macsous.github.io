@@ -3,7 +3,7 @@ layout: page
 title: Livros
 permalink: /livros/
 ---
-{% for post in site.categories.livros %}
+{% for livros in site.categories %}
     <article class="art">
         <header>
           <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
