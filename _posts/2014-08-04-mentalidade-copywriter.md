@@ -1,5 +1,6 @@
 ---
 layout: post
+url: "Bons Negócios como Copywriter"
 title: "Configure sua Mente para Ser um Grande Copywriter"
 author: Rodolfo Maciel
 date: 04/08/2014
@@ -8,7 +9,7 @@ category: Copywriting
 comments: true
 ---
 
-Gary Halbert foi um dos maiores copywriters que já viveu e felizmente estou tendo acesso aos seus ensinamentos através do site [http://thegaryhalbertletter.com], porém está tudo em inglês, só que na medida do possível(para quem não sabe nada de inglês) vou repassar o que tenho aprendido aqui.
+Gary Halbert foi um dos maiores copywriters que já viveu e felizmente estou tendo acesso aos seus ensinamentos através do site [The Gary Halbert](http://thegaryhalbertletter.com "Gary Halbert Copywriter"), porém está tudo em inglês, só que na medida do possível(para quem não sabe nada de inglês) vou repassar o que tenho aprendido aqui.
 
 Hoje vou falar sobre a mentalidade do copywriter de sucesso conforme Gary Halbert. Ele mostra que são necessários 6 conceitos importantes:
 
