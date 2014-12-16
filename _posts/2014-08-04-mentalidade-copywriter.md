@@ -1,6 +1,6 @@
 ---
 layout: post
-url: "Bons Negócios como Copywriter"
+seo: "Bons Negócios como Copywriter"
 title: "Configure sua Mente para Ser um Grande Copywriter"
 author: Rodolfo Maciel
 date: 04/08/2014
