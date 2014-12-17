@@ -55,7 +55,7 @@ Por exemplo, quando você está num shopping e deseja comer um hambúrguer com r
 
 Isso aconteceu porque a oferta que essa empresa faz lhe satisfez de tal forma que ela ficou marcada na sua memória. É exatamente isso que você precisa fazer com seu negócio; desenvolver uma __experiência de negócio(oferta) que satisfaça seu consumidor__.
 
-##Por que você não deve para por aqui?
+##Por que você não deve parar por aqui?
 
 Esses conceitos são apenas a base para se definir como está indo o seu empreendimento. Há muito mais a se fazer para levar seu negócio ao sucesso.
 
