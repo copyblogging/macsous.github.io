@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Aprenda a criar um Negócio Online com o Estudo de Caso do Davi e Lukas"
+author: Rodolfo Maciel
+date: 15/01/2015
+summary: "Criar um negócio online segue um padrão definido que pode gerar bastante sucesso desde o início. Davi e Lukas conseguiram fazer isso e hoje você pode aprender com o exemplo deles nesse artigo rápido. Aproveite."
+category: empreendedorismo
+comments: true
+---
+
+Hoje eu gostaria que você visse o caso do Davi e do Lukas. Eles criaram um negócio web na área de TI e faturaram R$ 143.590,07 vendendo algo inusitado: pendrives personalizados.
+
+Eles indicaram quais os 4 passos que seguiram para alcançar esse marco interessante. O mais motivador nisso tudo é que são passos que nós podemos seguir também.
+
+Clique no link ou imagem abaixo para ver o video:
+<figure>
+	<a href="http://bit.ly/ti-na-internet" target="blank">
+	<img src="{{ site.baseurl }}/assets/images/negocio-ti-davi-e-lucas.jpg" alt="Como Davi e Lukas criaram um negócio online na área de TI"/>
+	</a>
+</figure>
+Link: [http://bit.ly/ti-na-internet](http://bit.ly/ti-na-internet)
