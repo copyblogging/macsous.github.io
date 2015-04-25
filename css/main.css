@@ -39,6 +39,7 @@ article p {width:55%; margin: 0.8em auto; text-align: left;}
 article ul {width:55%; margin: 1em auto; text-align: left;}
 article a {text-decoration: underline; color:#02779E; font-size: 1.1em}
 article a:hover {color: #025D8C;}
+.com { overflow: hidden;}
 
 
 @media screen and (max-width:480px) {
