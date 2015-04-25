@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Termos de Uso
 permalink: /termos/
 ---
