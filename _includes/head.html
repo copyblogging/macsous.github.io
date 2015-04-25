@@ -2,9 +2,29 @@
 	<meta charset="utf-8"/>
 	<meta name="google-site-verification" content="lFuNupBvRnyW50DkwcEOoMCuyDKTTFvDdRRdRyLKDxc" />
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-	<meta name="keywords" content="bons negócios, como ganhar dinheiro, como ganhar dinheiro na internet, trabalho em casa, ganhar dinheiro na internet, como ficar rico, trabalhar em casa, trabalhe em casa, negócios lucrativos, como ganhar dinheiro extra, como ganhar dinheiro pela internet"/>
-    <meta name="author" content="{{ site.author }}"/>
-    <title>{% if page.seo %}{{ page.seo }}{% else %}{{ page.title }}{% endif %}</title>
-    <link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    {% include opengraph.html %}
+	<meta name="keywords" content="{{ page.key }}">
+
+        <title>{% if page.seo %}{{ page.seo }}{% else %}{{ page.title }}{% endif %}</title>
+
+	<!-- Metadados das redes sociais -->
+	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:description" content="{{ page.description }}">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="{{ page.url }}">
+	<meta property="og:image" content="{{ site.baseurl }}{{ page.image }}">
+	<meta property="og:site_name" content="{{ site.title }}">
+	<meta property="fb:admins" content="{{ site.facebookid }}">
+
+	<meta name="twitter:card" content="sumary_large_image">
+	<meta name="twitter:url" content="{{ page.url }}">
+	<meta name="twitter:title" content="{{ page.title }}">
+	<meta name="twitter:description" content="{{ page.description }}">
+	<meta name="twitter:image" content="{{ site.baseurl }}{{ page.image }}">
+
+	<meta itemprop="name" content="{{ page.title }}">
+	<meta itemprop="description" content="{{ page.description }}">
+	<meta itemprop="image" content="{{ site.baseurl }}{{ page.image }}">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 </head>

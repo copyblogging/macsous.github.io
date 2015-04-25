@@ -1,13 +1,16 @@
-<!doctype html>		
+<!DOCTYPE html>
 <html lang="pt-br">		
  {% include head.html %}		
-<body>		
-    {% include header.html %}    		
-    <div class="bg">		
-       {{ content }}   		
-    </div>		
-    <footer class="rd">		
-           {% include footer.html %}		
-    </footer>		
-    </body>		
+<body>
+
+<div class="container">
+{% include header.html %}    		
+   <section class="ct">
+      <article class="art">		
+         {{ content }}
+      </article>
+   </section>
+{% include footer.html %}		
+</div>
+</body>
 </html>

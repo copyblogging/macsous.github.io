@@ -1,27 +1,3 @@
 <header class="cb">
-        <div class="cbbanner">
-        <div class="layout">
-            <aside>
-                <a href="http://hotmart.net.br/show.html?a=N2015296F&ap=75a6&src=SVO-Natanael-Oliveira">Faça nosso curso gratuito de <span id="la">marketing digital!</span><span id="lb">Quero Fazer!</span></a>
-            </aside>
-        </div>
-        </div>
-        <div class="cbmenu">
-        <div class="layout">
-            <nav>
-                <ul>
-                    <li><a  href="{{ site.baseurl }}/index.html">Home</a></li>
-                    <li><a  href="{{ site.baseurl }}/index.html/">Artigos</a></li>
-                    <li><a  href="{{ site.baseurl }}/palestras/">Palestras</a></li>
-                    <li><a  href="{{ site.baseurl }}/livros/">Livros</a></li>
-                    <li><a  href="{{ site.baseurl }}/cursos/">Cursos</a></li>
-                </ul>
-            </nav>
-        </div>
-        </div>
-        <div class="cblogo">
-        <div class="layout">
-            <h1><a href="{{ site.baseurl }}/index.html">rodolfo maciel</a></h1>
-        </div>
-        </div>
-</header>
+		<div class="lg">RODOLFO MACIEL</div>
+	</header>
