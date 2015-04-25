@@ -46,7 +46,7 @@ article a:hover {color: #025D8C;}
 	article h2 {width:100%;}
 	article h1 {font-size: 1.2em;}
 	article p {width:100%;}
-	article .com {width: 100%; margin: 0 auto;}
+	.com {width: 100%; margin: 0 auto;}
 	article ul {width:100%;}
 	img {max-width: 100%; height:auto; display: block;}
 	.container footer {font-size: 1.2em;}
@@ -59,7 +59,7 @@ article a:hover {color: #025D8C;}
 	article h2 {width:90%;}
 	article h1 {font-size: 1.2em;}
 	article p {width:90%;}
-	article .com {width:90%; margin: 0 auto;}
+	.com {width:90%; margin: 0 auto;}
 	article ul {width:90%;}
 	img {max-width: 100%; height:auto; display: block;}
 	.fig { width:100%; margin: 0 auto;}
@@ -69,7 +69,7 @@ article a:hover {color: #025D8C;}
 	section article {width: 80%; font-size: 1.2em;}
 	article h2 {width:70%;}
 	article h1 {font-size: 1.4em;}
-	article .com {width:70%; margin: 0 auto;}
+	.com {width:70%; margin: 0 auto;}
 	article p {width:70%;}
 	article ul {width:70%;}
 	img {max-width: 100%; height:auto; display: block;}
@@ -80,7 +80,7 @@ article a:hover {color: #025D8C;}
 	article h2 {width:55%;}
 	article h1 {font-size: 1.7em}
 	article p {width:55%;}
-	article .com {width:55%; margin: 0 auto;}
+	.com {width:55%; margin: 0 auto;}
 	article ul {width:55%;}
 	img {max-width: 100%; height:auto; display: block;}
 }
