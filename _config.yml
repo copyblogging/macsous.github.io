@@ -9,7 +9,7 @@ url: "http://rodolfomaciel.com/" # the base hostname & protocol for your site
 
 
 permalink:   /:title/
-paginate: 5
+paginate: 9000
 
 
 disqus-shortname: rodolfomaciel83
