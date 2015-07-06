@@ -1,8 +1,0 @@
----
-layout: default
----
-
-{% for post in paginator.posts %}
-	<p>{{ post.title }}<p>
-	<a href="{{ post.url | prepend: site.baseurl }}">Saiba mais!</
-{% endfor %}
