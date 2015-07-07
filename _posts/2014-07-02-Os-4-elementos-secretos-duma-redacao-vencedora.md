@@ -9,6 +9,7 @@ Se você ainda não ouviu falar neste modelo ele é importantíssimo para o seu 
 categories: Copywriting
 comments: true
 ---
+#Os 4 elementos Secretos da Redação de Vendas
 <figure>
 <img src="https://farm8.staticflickr.com/7244/7195729556_16eb6cdc26_z.jpg" alt="Chamar Atenção com Uma Isca"/>
 </figure>
