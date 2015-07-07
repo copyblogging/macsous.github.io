@@ -8,6 +8,7 @@ summary: "Para escrever como um profissional é preciso ter a mente de um. Neste
 category: Copywriting
 comments: true
 ---
+#Configure sua Mente para Ser um Grande Copywriter
 
 Gary Halbert foi um dos maiores copywriters que já viveu e felizmente estou tendo acesso aos seus ensinamentos através do site [The Gary Halbert](http://thegaryhalbertletter.com "Gary Halbert Copywriter"), porém está tudo em inglês, só que na medida do possível(para quem não sabe nada de inglês) vou repassar o que tenho aprendido aqui.
 
