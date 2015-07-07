@@ -108,6 +108,7 @@ iframe {
 }
 img {max-width: 100%; width: 100vw; margin:0; padding: 0;}
 
+.com {display: block; width: 70%; overflow: hidden; clear: both; min-height:2px;}
 
 /* Modal */
 .modalDialog {
@@ -212,5 +213,3 @@ margin-bottom: 20px;
 
 	.modalDialog > div {width: 65%;}
 }
-
-.com {display: block; overflow: hidden; clear: both; min-height:px;}
