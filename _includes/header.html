@@ -1,10 +1,10 @@
 <header>
   <div class="container">
-    <div class="logo"><a href="">Rodolfo Maciel</a></div>
+    <div class="logo"><a href="{{ post.url | prepend: site.baseurl }}">Rodolfo Maciel</a></div>
     <nav>
       <ul>
-        <li><a href="">Primeiros Passos</a></li>
-        <li><a href="">Recomendações</a></li>
+        <li><a href="{{ post.url | prepend: site.baseurl }}">Primeiros Passos</a></li>
+        <li><a href="{{ post.url | prepend: site.baseurl }}">Recomendações</a></li>
       </ul>
     </nav>
   </div>
