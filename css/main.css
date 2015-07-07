@@ -195,7 +195,8 @@ margin-bottom: 20px;
 	h2 {font-size: 19pt;}
 	h3 {font-size: 16pt;}
 
-  .modalDialog > div { width: 75%;}
+  	.modalDialog > div { width: 75%;}
+  	#disqus_thread > iframe {width: 70% !important;}
 }
 
 @media screen and (min-width: 1060px){
@@ -207,10 +208,11 @@ margin-bottom: 20px;
 
 	article, article p {font-size: 16pt;}
 	h1, h2, h3, p{margin: 0.8em 0;}
-  .headline {width: 100%;}
+  	.headline {width: 100%;}
 	h1 {font-size: 30pt;}
 	h2 {font-size: 20pt;}
 	h3 {font-size: 22pt;}
 
 	.modalDialog > div {width: 65%;}
+	#disqus_thread > iframe {width: 70% !important;}
 }
