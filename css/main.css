@@ -108,8 +108,8 @@ iframe {
 }
 img {max-width: 100%; width: 100vw; margin:0; padding: 0;}
 
-.com {display: block; width: 100%; overflow: hidden;}
-#disqus_thread {width: 70%;}
+.com, #disqus_thread{ width: 100% !important;}
+#disqus_thread > iframe {position: relative;}
 
 /* Modal */
 .modalDialog {
