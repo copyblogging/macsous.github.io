@@ -7,6 +7,7 @@ summary: "Fazer com que os leitores gostem e fiquem no seu site consumindo seu c
 category: Trafego
 comments: true
 ---
+#4 motivos do porque o layout do seu site está deixando seus leitores irem embora
 
 Imagine que você tem um site muito bonito. Ele é produzido com as últimas tecnologias da web e custou uma boa soma de dinheiro.
 
@@ -14,11 +15,8 @@ Você tem uma boa visitação nele mas existe um grande problema: ele não está
 
 As pessoas estão lá, porém, parece que você está vendo elas darem meia volta e irem embora para não mais voltar.
 
-<figure>
-	<a href="{{ site.url }}/images/saida.jpg"><img src="{{ site.url }}/images/saida.jpg"></a>
-</figure>
-
 ##O layout é uma completa poluição visual
+
 Um dos maiores problemas é a poluição visual. Alguns sites tem apelo visual muito carregado (justamente para chamar a atenção).
 
 Mas isso geralmente distrai o seu leitor ou faz ele se sentir perdido. Desse modo, ele acaba perdendo o interesse e vai embora atrás de uma coisa menos confusa.
