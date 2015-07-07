@@ -7,6 +7,7 @@ summary: "A primeira sentença do seu texto pode segmentar de forma bastante exa
 category: Copywriting
 comments: true
 ---
+#Atenção Copywiriters: Conectar-se ao Público Alvo é o Começo da Copy
 
 A primeira sentença do seu texto pode segmentar de forma bastante exata o público que você deseja atingir. Observe bem o título desse post, quem for copywriter vai se identificar na hora.
 
