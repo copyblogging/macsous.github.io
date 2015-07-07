@@ -109,7 +109,7 @@ iframe {
 img {max-width: 100%; width: 100vw; margin:0; padding: 0;}
 
 .com, #disqus_thread{ width: 100% !important;}
-#disqus_thread > iframe {position: relative; margin: 25px 0 0 0;}
+#disqus_thread > iframe {position: relative; margin: 50px 0 0 0;}
 
 /* Modal */
 .modalDialog {
