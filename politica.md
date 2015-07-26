@@ -3,6 +3,8 @@ layout: default
 title: Politica de Privacidade
 permalink: /politica/
 ---
+#Politica de Privacidade
+
 ##Nosso Compromisso
 
 Nosso serviço por vezes solicita o fornecimento de dados sigilosos para sua realização. Temos a obrigação de gerir de forma responsável e segura estes dados. A RodolfoMaciel.com garante que seu nome, email e qualquer outro tipo de informação pessoal ou de sua empresa não serão, em hipótese alguma, cedidos, vendidos ou emprestados a terceiros, sem sua expressa autorização.
@@ -21,4 +23,3 @@ Em uma frase, nosso compromisso: **Você nunca receberá um spam enviado pela Ro
 
 Em algumas ocasiões, para fins de negócios ou simplesmente divulgação, podemos fornecer dados agregados de nossos clientes como, por exemplo, quantos têm o segundo grau, ou quantos são do sexo feminino. Fornecemos este tipo de informação, pois, assim fazendo, não estamos ferindo a privacidade nem individualizando informações pessoais de qualquer de nossos clientes.
 
-<img href="" alt=""/>

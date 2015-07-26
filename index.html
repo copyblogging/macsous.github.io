@@ -1,8 +1,11 @@
 ---
 layout: default
+title: "Marketing Digital - O Guia Online Gratuito por Rodolfo Maciel"
 ---
 
 {% for post in paginator.posts %}
-	<p>{{ post.title }}<p>
-	<a href="{{ post.url | prepend: site.baseurl }}">Saiba mais</a>
+	{% if post.image %}
+	<img src="{{ post.image }}" alt="{{ post.imageds }}">
+	{% endif %}
+	<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 {% endfor %}

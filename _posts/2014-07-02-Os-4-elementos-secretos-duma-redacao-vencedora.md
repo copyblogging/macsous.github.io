@@ -1,14 +1,17 @@
 ---
 layout: post
-seo: "Como Fazer uma Boa Redação de Vendas"
-title: "Os 4 elementos Secretos da Redação de Vendas"
-author: Rodolfo Maciel
-date: 02/07/2014
+title: "Como Fazer uma Boa Redação de Vendas"
+keys: "Redação, Vendas, Como Fazer"
+image: /assets/images/chamar-atencao-isca.jpg
+imageds: "Chamar Atenção com Uma Isca"
 summary: "Muito já se falou sobre a fórmula consagrada AIDA. Eles são os quatro elementos essenciais que toda publicidade deve conter: atenção, interesse, desejo e ação.
 Se você ainda não ouviu falar neste modelo ele é importantíssimo para o seu leitor tomar a ação que você deseja com sua redação publicitária."
+author: Rodolfo Maciel
+date: 02/07/2014
 categories: Copywriting
 comments: true
 ---
+
 #Os 4 elementos Secretos da Redação de Vendas
 <figure>
 <img src="https://farm8.staticflickr.com/7244/7195729556_16eb6cdc26_z.jpg" alt="Chamar Atenção com Uma Isca"/>

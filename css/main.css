@@ -1,218 +1,57 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
+		body {font-family: "Open Sans"; background-color: #fff;}
+		h1, h2, h3, p{margin: 0.8em 0;}
+		h1 {font-size: 36pt; line-height: 1em; color: #ca262c; font-weight: 700;}
+		h2 {font-size: 24pt; line-height: 1.1em; color: #555; font-weight: 600; width: 75%;}
+		h3 {font-size: 20pt; line-height: 1.2em; color: #555; font-weight: 400; font-style:italic;}
+		article p, article ul  {font-size: 16pt; line-height: 1.25em; color: #777; width: 75%; font-weight: 300;}
+		article:last-child {border-bottom:none; margin-bottom: 2em;}
+		article ul {margin-left: 1.5em; list-style: square;}
+		article ul li {margin: 0 0 0.7em 0;}
+		
+		/* Imagens e Videos */
+		video {
+		  width: 100% !important;
+		  height: auto !important;
+		}
 
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
+		.video {
+		  position: relative;
+		  padding-bottom: 56.25%; /* 16:9 */
+		  padding-top: 25px;
+		  height: 0;
+		}
+		iframe {
+		  position: absolute;
+		  top: 0;
+		  left: 0;
+		  width: 100%;
+		  height: 100%;
+		}
 
-/*-----------------------------------------------------------------------------------------------------------*/
-/* Geral */
+		.video object,
+		.video embed,  {
+		  position: absolute;
+		  top: 0;
+		  left: 0;
+		  width: 100%;
+		  height: 100%;
+		}
 
-body {width: 100%; font-family: Georgia, serif; font-size: 13pt; line-height: 1.45em; color:#684f47; background-color: #fff;}
-.container {width: 95%; margin: 0 auto;}
-main a {color: #F16334;}
-main a:hover {color: #ff855b;}
+		img {max-width: 100%; width: 100vw; margin:0; padding: 0;}
 
-h1, h2, h3, p{margin: 0.8em 0;}
-h1 {font-size: 20pt; line-height: 1em; color: #f83f00; font-weight: 700;}
-h2 {font-size: 16pt; line-height: 1.2em; color: #e34d1a; font-weight: 700;}
-h3 {font-size: 15pt; line-height: 1.2em; font-style: italic; color:#87adc6;}
-article {margin-bottom: 5em; border-bottom: 1px solid #e5eef1;}
-article:last-child {border-bottom:none; margin-bottom: 2em;}
-article p {font-size: 13pt; line-height: 1.45em;}
-article ul {margin-left: 2em; list-style: square;}
-article ul li {margin: 0 0 0.7em 0;}
+		._form{display: block; width: 100%; text-align: center; background-color: #777;}
+		input {width: 70%; height: 50px; margin: 0 0 20px 0; text-align: center; font-size: 16pt}
+		.ca {width: 80%; margin: 0 auto; padding-bottom: 30px; text-align: center; font-size: 24px; font-weight: 600; line-height: 1.40em;}
+		.f {width: 90%; margin: 30px auto; padding-top: 30px;background-color: #777;}
+		input[type=submit] {background-color: #ca262c; border-color: #000;  color: #fff; font-weight: 700;}
 
-.logo{display: block; text-align: center; padding: 15px 0; font-family: Arial, sans-serif; font-weight: 600; text-transform: uppercase;}
-.logo a {text-decoration: none; color: #067;}
-
-header {border-bottom: solid #e5eef1 1px; margin-bottom: 1em; overflow: hidden;}
-
-header ul li {display: none;}
-footer ul {width: 100%;  text-align: center;}
-footer ul li {font-family: Arial, sans-serif; display: inline-block; padding: 1em; }
-header ul a, footer ul a {color:#888; font-size: 11pt;}
-
-footer {border-top: solid #e5eef1 1px;}
-
-
-/* Imagens e Videos */
-video {
-  width: 100% !important;
-  height: auto !important;
-}
-
-.video {
-	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
-}
-iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
-
-.video object,
-.video embed,  {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
-img {max-width: 100%; width: 100vw; margin:0; padding: 0;}
-
-.com, #disqus_thread{ width: 100% !important;}
-#disqus_thread > iframe {position: relative; margin: 50px 0 0 0;}
-
-/* Modal */
-.modalDialog {
-position: fixed;
-font-family: Arial, Helvetica, sans-serif;
-top: 0;
-right: 0;
-bottom: 0;
-left: 0;
-background: rgba(0,0,0,0.5);
-z-index: 99999;
-opacity:0;
--webkit-transition: opacity 200ms ease-in;
--moz-transition: opacity 200ms ease-in;
-transition: opacity 200ms ease-in;
-pointer-events: none;
-overflow:scroll; /* activa scroll da página se a modal for muito comprida */
-}
-
- .modalDialog:target {
-opacity:1;
-pointer-events: auto;
-}
-
-.modalDialog {width: 100%;}
-
-.modalDialog > div {
-width: 85%;
-position: relative;
-margin: 5% auto;
-padding: 5px 20px 13px 20px;
-background: #fff;
-
--moz-box-shadow: 1px 1px 30px #000;
--webkit-box-shadow: 1px 1px 30px #000;
-box-shadow: 1px 1px 30px #000;
-}
-
- .close {
-background: #606061;
-color: #FFFFFF;
-position: absolute;
-right: -12px;
-text-align: center;
-top: -10px;
-width: auto;
-text-decoration: none;
-padding: 10px;
--moz-box-shadow: 1px 1px 3px #000;
--webkit-box-shadow: 1px 1px 3px #000;
-box-shadow: 1px 1px 3px #000;
-}
-
-.close:hover { background: #F16334; }
-
-.modalpic {
-float: left;
-padding: 6px;
-width: 300px;
-display: block;
-border: 4px solid #ffffff;
-border-radius: 30%;
-box-shadow: 3px 6px 8px 1px rgba(0, 0, 0, 0.3);
--moz-box-shadow: 3px 6px 8px 1px rgba(0, 0, 0, 0.3);
--webkit-box-shadow: 3px 6px 8px 1px rgba(0, 0, 0, 0.3);
-margin-right: 100%;
-margin-bottom: 20px;
-}
-
-/* ----------------------------------------------------------------------------------------------- */
-/* Media Queries */
-@media screen and (min-width: 720px){
-	.container {width: 87.5%;}
-	h2, p, article ul {width:70%;}
-	header ul {text-align: right;}
-	header ul li {display: inline-block; padding: 15px 0 15px 15px; font-family: Arial, sans-serif;}
-	header nav {width: 45%; float:right;}
-	.logo {width: 45%; float: left; text-align: left;}
-
-	article, article p {font-size: 14pt;}
-	h1, h2, h3, p{margin: 0.8em 0;}
-	h1 {font-size: 27pt;}
-	h2 {font-size: 19pt;}
-	h3 {font-size: 16pt;}
-
-  	.modalDialog > div { width: 75%;}
-  	#disqus_thread > iframe {width: 70% !important;}
-}
-
-@media screen and (min-width: 1060px){
-	.container {width: 80%;}
-	header ul {text-align: right;}
-	header ul li {display: inline-block; padding: 15px 0 15px 15px; font-family: Arial, sans-serif;}
-	header nav {width: 45%; float:right;}
-	.logo {width: 45%; float: left; text-align: left;}
-
-	article, article p {font-size: 16pt;}
-	h1, h2, h3, p{margin: 0.8em 0;}
-  	.headline {width: 100%;}
-	h1 {font-size: 30pt;}
-	h2 {font-size: 20pt;}
-	h3 {font-size: 22pt;}
-
-	.modalDialog > div {width: 65%;}
-	#disqus_thread > iframe {width: 70% !important;}
-}
+		@media screen and (max-width: 500px){ 
+		h1, h2, h3, p{margin: 0.8em 0;}
+		h1 {font-size: 26pt; line-height: 1em;}
+		h2 {font-size: 17pt; line-height: 1.1em;width: 100%;}
+		h3 {font-size: 16pt; line-height: 1.2em;}
+		article p, article ul  {font-size: 14pt; line-height: 1.25em; width: 95%;}
+		article:last-child {border-bottom:none; margin-bottom: 2em;}
+		article ul {margin-left: 0.7em; list-style: square;  width: 80%;}
+		article ul li {margin: 0 0 0.7em 0;}
+		}

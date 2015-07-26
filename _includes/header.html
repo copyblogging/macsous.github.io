@@ -1,11 +1,47 @@
-<header>
-  <div class="container">
-    <div class="logo"><a href="http://rodolfomaciel.com">Rodolfo Maciel</a></div>
-    <nav>
-      <ul>
-        <li><a href="{{ post.url | prepend: site.baseurl }}">Primeiros Passos</a></li>
-        <li><a href="{{ post.url | prepend: site.baseurl }}">Recomendações</a></li>
-      </ul>
-    </nav>
-  </div>
+<!-- Uses a header that scrolls with the text, rather than staying
+  locked at the top -->
+<div class="mdl-layout mdl-js-layout mdl-layout--overlay-drawer-button">
+  <header class="mdl-layout__header mdl-layout__header--scroll">
+    <div class="mdl-layout__header-row">
+      <!-- Title -->
+      <span class="mdl-layout-title">Rodolfo Maciel</span>
+      <!-- Add spacer, to align navigation to the right -->
+      <div class="mdl-layout-spacer"></div>
+      <!-- Navigation -->
+      <nav class="mdl-navigation mdl-layout--large-screen-only">
+        <a class="mdl-navigation__link" href="{{ post.url | prepend: site.baseurl }}">PRIMEIROS PASSOS</a>
+        <a class="mdl-navigation__link" href="{{ post.url | prepend: site.baseurl }}">RECOMENDADOS</a>
+      </nav>
+    </div>
 </header>
+<div class="mdl-layout__drawer">
+  <span class="mdl-layout-title">Rodolfo</span>
+   <nav class="mdl-navigation">
+     <a class="mdl-navigation__link" href="{{ post.url | prepend: site.baseurl }}">Primeiros Passos</a>
+     <a class="mdl-navigation__link" href="{{ post.url | prepend: site.baseurl }}">Recomendados</a>
+   </nav>
+</div>
+<main class="mdl-layout__content">
+  <article>
+    <div class="page-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

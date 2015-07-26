@@ -1,16 +1,26 @@
 <head>
 	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.1/material.teal-deep_orange.min.css" />
+	<link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+	<script src="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.min.js"></script>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,800,600' rel='stylesheet' type='text/css'>
+	<link rel="canonical" href="http://rodolfomaciel.com" />
+
 	<meta name="google-site-verification" content="lFuNupBvRnyW50DkwcEOoMCuyDKTTFvDdRRdRyLKDxc" />
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-	<meta name="keywords" content="{{ page.key }}">
+	<meta name="keywords" content="{{ page.keys }}">
 
-        <title>{% if page.seo %}{{ page.seo }}{% else %}{{ page.title }}{% endif %}</title>
+        <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
 	<!-- Metadados das redes sociais -->
-	<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+	<meta property="og:title" content="{% if page.url %}{{ page.url }}{% else %}{{ page.title }}{% endif %}">
 	<meta property="og:description" content="{{ page.description }}">
-	<meta property="og:type" content="article">
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="website" />
 	<meta property="og:url" content="{{ page.url }}">
+
 	<meta property="og:image" content="{{ site.baseurl }}{{ page.image }}">
 	<meta property="og:site_name" content="{{ site.title }}">
 	<meta property="fb:admins" content="{{ site.facebookid }}">
@@ -26,6 +36,5 @@
 	<meta itemprop="image" content="{{ site.baseurl }}{{ page.image }}">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" type="text/css" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-        <script src="//my.hellobar.com/6940e9b259c299681ae9615ca6045f3c88e593f7.js" type="text/javascript" charset="utf-8" async="async"></script>
+    <script src="//my.hellobar.com/6940e9b259c299681ae9615ca6045f3c88e593f7.js" type="text/javascript" charset="utf-8" async="async"></script>
 </head>

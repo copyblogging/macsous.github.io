@@ -1,8 +1,7 @@
 # Site settings
-title: Rodolfo Maciel
+title: "Marketing Digital - O Guia Online Gratuito"
 email: rodolfomaciel@outlook.com
-description: > # this means to ignore newlines until "baseurl:"
-  Como gerar uma idéia de negócio, validar sua proposta e criar um negócio digital de sucesso. Como criar e expandir um negócio online do zero usando marketing digital.
+description: "Como criar um Negócio Online "
 author: Rodolfo Maciel
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rodolfomaciel.com/" # the base hostname & protocol for your site
@@ -12,11 +11,12 @@ permalink:   /:title/
 paginate: 9000
 
 
-disqus-shortname: rodolfomaciel83
+disqus-shortname: disqus_vlPoledEJc
 twitter_username: _rodolfomaciel
 facebook_username:  rodolfomaciel
 linkedin__username:  rodolfomaciel
 google_username:  +RodolfoMaciel83
+facebookid: 1621242431464641
 
 # Build settings
 markdown: kramdown
