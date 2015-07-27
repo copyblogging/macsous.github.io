@@ -13,9 +13,8 @@ comments: true
 ---
 
 #Os 4 elementos Secretos da Redação de Vendas
-<figure>
+
 <img src="https://farm8.staticflickr.com/7244/7195729556_16eb6cdc26_z.jpg" alt="Chamar Atenção com Uma Isca"/>
-</figure>
 
 ##A isca certa para fisgar um grande peixe
 A primeira coisa que você deve sentir quando olha para sua copy(ou redação de vendas) é que existe algo nela que chama sua atenção.
