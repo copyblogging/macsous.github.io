@@ -45,6 +45,9 @@ input {width: 70%; height: 50px; margin: 0 0 20px 0; text-align: center; font-si
 .f {width: 90%; margin: 30px auto; padding-top: 30px;background-color: #777;}
 input[type=submit] {background-color: #ca262c; border-color: #000;  color: #fff; font-weight: 700;}
 
+#disqus_thread{ width: 100% !important;}
+#disqus_thread > iframe {position: relative; margin: 50px 0 0 0;}
+
 @media screen and (max-width: 500px){ 
 h1, h2, h3, p{margin: 0.8em 0;}
 h1 {font-size: 26pt; line-height: 1em;}
