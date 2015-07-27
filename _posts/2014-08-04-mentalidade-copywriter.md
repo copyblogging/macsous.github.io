@@ -1,12 +1,14 @@
 ---
 layout: post
-seo: "Bons Negócios como Copywriter"
 title: "Configure sua Mente para Ser um Grande Copywriter"
 author: Rodolfo Maciel
 date: 04/08/2014
 summary: "Para escrever como um profissional é preciso ter a mente de um. Neste artigo vamos ver algumas mudanças que são necessárias para isso."
 category: Copywriting
 comments: true
+image: /assets/images/mentalidade.jpg
+imageds: "Configure sua Mente para Ser um Grande Copywriter"
+keys: copywriter, mentalidade
 ---
 #Configure sua Mente para Ser um Grande Copywriter
 
@@ -38,5 +40,3 @@ E por fim o que realmente importa saber sobre os nossos clientes é __o que eles
 Gary Halbert cita uma empresa nos EUA que fornece listas do que as pessoas estão consumindo: a [SRDS](http://srds.com/ "SRDS"). Seria um sonho ter isso aqui no Brasil(pelo menos não conheço nenhuma empresa que faz isso aqui).
 
 Por hoje é só. Deixem suas sugestões e críticas abaixo. Abraços!
-
-Aproveitem para fazer o download gratuito do guia para textos de vendas no link a seguir: [Guia Básico Copywriting](http://eepurl.com/0PRvb "Baixe gratuitamente o seu Guia Básico Copywriting")
