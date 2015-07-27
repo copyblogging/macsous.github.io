@@ -3,10 +3,10 @@ h1, h2, h3, p{margin: 0.8em 0;}
 h1 {font-size: 36pt; line-height: 1em; color: #ca262c; font-weight: 700;}
 h2 {font-size: 24pt; line-height: 1.1em; color: #555; font-weight: 600; width: 75%;}
 h3 {font-size: 20pt; line-height: 1.2em; color: #555; font-weight: 400; font-style:italic;}
-article p, article ul  {font-size: 16pt; line-height: 1.25em; color: #777; width: 75%; font-weight: 300;}
+article p, article ul, article ol  {font-size: 16pt; line-height: 1.25em; color: #777; width: 75%; font-weight: 300;}
 article:last-child {border-bottom:none; margin-bottom: 2em;}
-article ul {margin-left: 1.5em; list-style: square;}
-article ul li {margin: 0 0 0.7em 0;}
+article ul, article ol {margin-left: 1.5em; list-style: square;}
+article ul li, article ol li {margin: 0 0 0.7em 0;}
 
 /* Imagens e Videos */
 video {
