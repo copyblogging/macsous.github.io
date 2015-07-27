@@ -1,57 +1,57 @@
 		body {font-family: "Open Sans"; background-color: #fff;}
-		h1, h2, h3, p{margin: 0.8em 0;}
-		h1 {font-size: 36pt; line-height: 1em; color: #ca262c; font-weight: 700;}
-		h2 {font-size: 24pt; line-height: 1.1em; color: #555; font-weight: 600; width: 75%;}
-		h3 {font-size: 20pt; line-height: 1.2em; color: #555; font-weight: 400; font-style:italic;}
-		article p, article ul  {font-size: 16pt; line-height: 1.25em; color: #777; width: 75%; font-weight: 300;}
-		article:last-child {border-bottom:none; margin-bottom: 2em;}
-		article ul {margin-left: 1.5em; list-style: square;}
-		article ul li {margin: 0 0 0.7em 0;}
-		
-		/* Imagens e Videos */
-		video {
-		  width: 100% !important;
-		  height: auto !important;
-		}
+h1, h2, h3, p{margin: 0.8em 0;}
+h1 {font-size: 36pt; line-height: 1em; color: #ca262c; font-weight: 700;}
+h2 {font-size: 24pt; line-height: 1.1em; color: #555; font-weight: 600; width: 75%;}
+h3 {font-size: 20pt; line-height: 1.2em; color: #555; font-weight: 400; font-style:italic;}
+article p, article ul  {font-size: 16pt; line-height: 1.25em; color: #777; width: 75%; font-weight: 300;}
+article:last-child {border-bottom:none; margin-bottom: 2em;}
+article ul {margin-left: 1.5em; list-style: square;}
+article ul li {margin: 0 0 0.7em 0;}
 
-		.video {
-		  position: relative;
-		  padding-bottom: 56.25%; /* 16:9 */
-		  padding-top: 25px;
-		  height: 0;
-		}
-		iframe {
-		  position: absolute;
-		  top: 0;
-		  left: 0;
-		  width: 100%;
-		  height: 100%;
-		}
+/* Imagens e Videos */
+video {
+  width: 100% !important;
+  height: auto !important;
+}
 
-		.video object,
-		.video embed,  {
-		  position: absolute;
-		  top: 0;
-		  left: 0;
-		  width: 100%;
-		  height: 100%;
-		}
+.video {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 
-		img {max-width: 100%; width: 100vw; margin:0; padding: 0;}
+.video object,
+.video embed,  {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 
-		._form{display: block; width: 100%; text-align: center; background-color: #777;}
-		input {width: 70%; height: 50px; margin: 0 0 20px 0; text-align: center; font-size: 16pt}
-		.ca {width: 80%; margin: 0 auto; padding-bottom: 30px; text-align: center; font-size: 24px; font-weight: 600; line-height: 1.40em;}
-		.f {width: 90%; margin: 30px auto; padding-top: 30px;background-color: #777;}
-		input[type=submit] {background-color: #ca262c; border-color: #000;  color: #fff; font-weight: 700;}
+img {max-width: 100%; width: 100vw; margin:0; padding: 0;}
 
-		@media screen and (max-width: 500px){ 
-		h1, h2, h3, p{margin: 0.8em 0;}
-		h1 {font-size: 26pt; line-height: 1em;}
-		h2 {font-size: 17pt; line-height: 1.1em;width: 100%;}
-		h3 {font-size: 16pt; line-height: 1.2em;}
-		article p, article ul  {font-size: 14pt; line-height: 1.25em; width: 95%;}
-		article:last-child {border-bottom:none; margin-bottom: 2em;}
-		article ul {margin-left: 0.7em; list-style: square;  width: 80%;}
-		article ul li {margin: 0 0 0.7em 0;}
-		}
+._form{display: block; width: 100%; text-align: center; background-color: #777;}
+input {width: 70%; height: 50px; margin: 0 0 20px 0; text-align: center; font-size: 16pt}
+.ca {width: 80%; margin: 0 auto; padding-bottom: 30px; text-align: center; font-size: 24px; font-weight: 600; line-height: 1.40em;}
+.f {width: 90%; margin: 30px auto; padding-top: 30px;background-color: #777;}
+input[type=submit] {background-color: #ca262c; border-color: #000;  color: #fff; font-weight: 700;}
+
+@media screen and (max-width: 500px){ 
+h1, h2, h3, p{margin: 0.8em 0;}
+h1 {font-size: 26pt; line-height: 1em;}
+h2 {font-size: 17pt; line-height: 1.1em;width: 100%;}
+h3 {font-size: 16pt; line-height: 1.2em;}
+article p, article ul  {font-size: 14pt; line-height: 1.25em; width: 95%;}
+article:last-child {border-bottom:none; margin-bottom: 2em;}
+article ul {margin-left: 0.7em; list-style: square;  width: 80%;}
+article ul li {margin: 0 0 0.7em 0;}
+}
