@@ -47,7 +47,7 @@ input[type=submit] {background-color: #ca262c; border-color: #000;  color: #fff;
 
 .comments, #disqus_thread{ width: 100% !important;}
 #disqus_thread > iframe {position: relative; margin: 50px 0 0 0;}
-.mdl-mini-footer {font-size:12pt;}
+.mdl-mini-footer--link-list {font-size:12pt;}
 
 @media screen and (max-width: 500px){ 
 h1, h2, h3, p{margin: 0.8em 0;}
