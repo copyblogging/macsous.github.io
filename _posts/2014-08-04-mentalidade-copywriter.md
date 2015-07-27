@@ -6,7 +6,7 @@ date: 04/08/2014
 summary: "Para escrever como um profissional é preciso ter a mente de um. Neste artigo vamos ver algumas mudanças que são necessárias para isso."
 category: Copywriting
 comments: true
-image: /assets/images/mentalidade.jpg
+image: mentalidade.jpg
 imageds: "Configure sua Mente para Ser um Grande Copywriter"
 keys: copywriter, mentalidade
 ---
