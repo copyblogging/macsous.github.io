@@ -2,7 +2,7 @@
 layout: post
 title: "Como Fazer uma Boa Redação de Vendas"
 keys: "Redação, Vendas, Como Fazer"
-image: /assets/images/chamar-atencao-isca.jpg
+image: chamar-atencao-isca.jpg
 imageds: "Chamar Atenção com Uma Isca"
 summary: "Muito já se falou sobre a fórmula consagrada AIDA. Eles são os quatro elementos essenciais que toda publicidade deve conter: atenção, interesse, desejo e ação.
 Se você ainda não ouviu falar neste modelo ele é importantíssimo para o seu leitor tomar a ação que você deseja com sua redação publicitária."
