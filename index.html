@@ -5,7 +5,7 @@ title: "Marketing Digital - O Guia Online Gratuito por Rodolfo Maciel"
 
 {% for post in paginator.posts %}
 	{% if post.image %}
-	<img src="{{ post.image }}" alt="{{ post.imageds }}">
+	<img src="{{ site.baseurl }}/assets/images/{{ post.image }}" alt="{{ post.imageds }}">
 	{% endif %}
 	<p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
 {% endfor %}
