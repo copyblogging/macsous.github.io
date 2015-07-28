@@ -5,7 +5,8 @@ h2 {font-size: 24pt; line-height: 1.1em; color: #555; font-weight: 600; width: 7
 h3 {font-size: 20pt; line-height: 1.2em; color: #555; font-weight: 400; font-style:italic;}
 article p, article ul, article ol  {font-size: 16pt; line-height: 1.25em; color: #777; width: 75%; font-weight: 300;}
 article:last-child {border-bottom:none; margin-bottom: 2em;}
-article ul, article ol {margin-left: 1.5em; list-style: square;}
+article ul, article ol {margin-left: 1.5em;}
+article ul {list-style: square;}
 article ul li, article ol li {margin: 0 0 0.7em 0;}
 
 /* Imagens e Videos */
@@ -45,7 +46,7 @@ input {width: 70%; height: 50px; margin: 0 0 20px 0; text-align: center; font-si
 .f {width: 90%; margin: 30px auto; padding-top: 30px;background-color: #777;}
 input[type=submit] {background-color: #ca262c; border-color: #000;  color: #fff; font-weight: 700;}
 
-.comments, #disqus_thread{ width: 100% !important;}
+.comments, #disqus_thread{ width: 90% !important;}
 #disqus_thread > iframe {position: relative; margin: 50px 0 0 0;}
 .mdl-mini-footer--link-list {font-size:12pt;}
 
@@ -54,8 +55,8 @@ h1, h2, h3, p{margin: 0.8em 0;}
 h1 {font-size: 26pt; line-height: 1em;}
 h2 {font-size: 17pt; line-height: 1.1em;width: 100%;}
 h3 {font-size: 16pt; line-height: 1.2em;}
-article p, article ul  {font-size: 14pt; line-height: 1.25em; width: 95%;}
+article p, article ul, article ol {font-size: 14pt; line-height: 1.25em; width: 95%;}
 article:last-child {border-bottom:none; margin-bottom: 2em;}
-article ul {margin-left: 0.7em; list-style: square;  width: 80%;}
-article ul li {margin: 0 0 0.7em 0;}
+article ul, article ol {margin-left: 0.7em; width: 80%;}
+article ul li, article ol li {margin: 0 0 0.7em 0;}
 }
