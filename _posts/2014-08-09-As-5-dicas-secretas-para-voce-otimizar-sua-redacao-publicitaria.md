@@ -3,7 +3,7 @@ layout: post
 title: "As 5 dicas secretas para você otimizar sua redação publicitária"
 keys: dicas, otimizar, redação
 image:  otimizar-sua-redacao.jpg
-imageds: "otimizar sua redacao"
+imageds: otimizar sua redacao
 author: Rodolfo Maciel
 date: 09/08/2014
 summary: "Muitas vezes os detalhes é que fazem toda a diferença no sucesso de uma publicidade. Aquele toque especial que a gente percebe e é conquistado. Nos próximos parágrafos vou discorrer sobre alguns desses detalhes que tem sido muito bom pra mim."
