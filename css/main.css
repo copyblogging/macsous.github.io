@@ -9,7 +9,6 @@ article:last-child {border-bottom:none; margin-bottom: 2em;}
 article ul, article ol {margin-left: 1.5em;}
 article ul {list-style: square;}
 article ul li, article ol li {margin: 0 0 0.7em 0;}
-hr {margin-bottom: 20px;}
 
 /* Imagens e Videos */
 video {
