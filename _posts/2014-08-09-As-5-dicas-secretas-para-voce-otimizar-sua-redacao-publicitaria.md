@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "As 5 dicas secretas para você otimizar sua redação publicitária"
+keys: dicas, otimizar, redação
+image: 
 author: Rodolfo Maciel
 date: 09/08/2014
 summary: "Muitas vezes os detalhes é que fazem toda a diferença no sucesso de uma publicidade. Aquele toque especial que a gente percebe e é conquistado. Nos próximos parágrafos vou discorrer sobre alguns desses detalhes que tem sido muito bom pra mim."
-category: copywriting
+category: copywriting, redação
 comments: true
 ---
+#As 5 dicas secretas para você otimizar sua redação publicitária
 
 Muitas vezes os detalhes é que fazem toda a diferença no sucesso de uma publicidade. Aquele toque especial que a gente percebe e é conquistado. Nos próximos parágrafos vou discorrer sobre alguns desses detalhes que tem sido muito bom pra mim.
 
@@ -62,5 +65,3 @@ Lembre-se que você deve usar elementos e cores que se destacam do restante do l
 Estes sistemas disponibilizam ferramentas que lhe ajudam a atingir com precisão todos os que fazem parte do seu público alvo. Isso resulta no melhor retorno para sua publicidade pois você vai alcançar quem realmente precisa do seu produto.
 
 Portanto, se você der atenção a estes 5 características de sua redação de vendas tenha certeza de bons resultados! Espero ter ajudado e até a próxima!
-
-Aproveitem para fazer o download gratuito do guia para textos de vendas no link a seguir: [Guia Básico Copywriting](http://eepurl.com/0PRvb "Baixe gratuitamente o seu Guia Básico Copywriting")
