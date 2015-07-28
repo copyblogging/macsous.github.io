@@ -1,4 +1,5 @@
-		body {font-family: "Open Sans"; background-color: #fff;}
+	
+body {font-family: "Open Sans"; background-color: #fff;}
 h1, h2, h3, p{margin: 0.8em 0;}
 h1 {font-size: 36pt; line-height: 1em; color: #FF6E40; font-weight: 700;}
 h2 {font-size: 24pt; line-height: 1.1em; color: #555; font-weight: 600; width: 75%;}
@@ -8,7 +9,7 @@ article:last-child {border-bottom:none; margin-bottom: 2em;}
 article ul, article ol {margin-left: 1.5em;}
 article ul {list-style: square;}
 article ul li, article ol li {margin: 0 0 0.7em 0;}
-hr {color:#f7f7f7; padding-bottom: 20px;}
+hr {background-color:#f7f7f7; padding-bottom: 20px;}
 
 /* Imagens e Videos */
 video {
