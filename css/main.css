@@ -48,7 +48,7 @@ input {width: 70%; height: 50px; margin: 0 0 20px 0; text-align: center; font-si
 .f {width: 90%; margin: 30px auto; padding-top: 30px;background-color: #777;}
 input[type=submit] {background-color: #ca262c; border-color: #000;  color: #fff; font-weight: 700;}
 
-.comments, #disqus_thread { width: 90% !important;}
+.com, #disqus_thread { width: 90% !important;}
 #disqus_thread > iframe {position: relative; margin: 50px 0 0 0;}
 .mdl-mini-footer--link-list {font-size:12pt;}
 
