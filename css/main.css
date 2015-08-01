@@ -61,4 +61,5 @@ article p, article ul, article ol {font-size: 14pt; line-height: 1.25em; width: 
 article:last-child {border-bottom:none; margin-bottom: 2em;}
 article ul, article ol {margin-left: 0.7em; width: 80%;}
 article ul li, article ol li {margin: 0 0 0.7em 0;}
+.com, #disqus_thread { width: 100% !important;}
 }
